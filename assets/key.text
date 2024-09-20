@@ -1,0 +1,36 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\anurag\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 3D:FD:74:4D:FF:9A:6C:73:C2:26:3D:A2:EB:7F:09:3F
+SHA1: 1E:81:47:21:74:EA:A4:AB:78:7C:9C:E4:99:9B:CD:B8:6E:35:62:7F
+SHA-256: 3D:D4:3A:59:7F:0B:F6:23:48:0C:44:FB:23:9C:8A:24:5C:46:EF:E2:E6:A9:95:80:75:24:66:4E:03:46:3E:8A
+Valid until: Monday, June 23, 2053
+----------
+Variant: release
+Config: debug
+Store: C:\Users\anurag\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 3D:FD:74:4D:FF:9A:6C:73:C2:26:3D:A2:EB:7F:09:3F
+SHA1: 1E:81:47:21:74:EA:A4:AB:78:7C:9C:E4:99:9B:CD:B8:6E:35:62:7F
+SHA-256: 3D:D4:3A:59:7F:0B:F6:23:48:0C:44:FB:23:9C:8A:24:5C:46:EF:E2:E6:A9:95:80:75:24:66:4E:03:46:3E:8A
+Valid until: Monday, June 23, 2053
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\anurag\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 3D:FD:74:4D:FF:9A:6C:73:C2:26:3D:A2:EB:7F:09:3F
+SHA1: 1E:81:47:21:74:EA:A4:AB:78:7C:9C:E4:99:9B:CD:B8:6E:35:62:7F
+SHA-256: 3D:D4:3A:59:7F:0B:F6:23:48:0C:44:FB:23:9C:8A:24:5C:46:EF:E2:E6:A9:95:80:75:24:66:4E:03:46:3E:8A
+Valid until: Monday, June 23, 2053
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\anurag\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 3D:FD:74:4D:FF:9A:6C:73:C2:26:3D:A2:EB:7F:09:3F
+SHA1: 1E:81:47:21:74:EA:A4:AB:78:7C:9C:E4:99:9B:CD:B8:6E:35:62:7F
+SHA-256: 3D:D4:3A:59:7F:0B:F6:23:48:0C:44:FB:23:9C:8A:24:5C:46:EF:E2:E6:A9:95:80:75:24:66:4E:03:46:3E:8A
+Valid until: Monday, June 23, 2053
